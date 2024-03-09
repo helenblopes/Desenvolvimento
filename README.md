@@ -1,4 +1,4 @@
-<h3 align="center">Portfólio de Projetos desenvolvidos na Faculdade</h3>
+<h3 align="center">Desenvolvimento no Estágio de TI</h3>
 
 
 Durante o meu estágio de TI, enfrentei desafios que me incentivaram a sair da minha zona de conforto e buscar soluções criativas.
